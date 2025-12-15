@@ -1,7 +1,9 @@
-# Todo App 
+<img width="1536" height="1024" alt="Todo app screenshort" src="https://github.com/user-attachments/assets/c0d9727a-ed63-459f-96c1-7ab304fc0d9f" /># Todo App 
 [![Codecov](https://codecov.io/gh/M-Julius/Todo-App/branch/main/graph/badge.svg)](https://codecov.io/gh/M-Julius/Todo-App)
 
-[<img src="screenshoot/TodoApp.jpg" />](screenshot/TodoApp.jpg)
+<img width="1536" height="1024" alt="Todo app screenshort" src="https://github.com/user-attachments/assets/0d2b262a-1f6f-4e6a-9c3a-83ed97b70130" />
+
+
 Todo App is a simple task management application built using Expo React Native with a clean architecture implementation.
 
 ## Features
