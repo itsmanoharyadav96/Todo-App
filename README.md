@@ -25,7 +25,7 @@ Todo App is a simple task management application built using Expo React Native w
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/M-Julius/Todo-App.git](https://github.com/itsmanoharyadav96/Todo-App.git
+git clone https://github.com/itsmanoharyadav96/Todo-App.git
 
 ```
 
