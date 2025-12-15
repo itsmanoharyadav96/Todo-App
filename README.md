@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="Todo app screenshort" src="https://github.com/user-attachments/assets/c0d9727a-ed63-459f-96c1-7ab304fc0d9f" /># Todo App 
+
+# Todo App 
 
 
 <img width="1536" height="1024" alt="Todo app screenshort" src="https://github.com/user-attachments/assets/0d2b262a-1f6f-4e6a-9c3a-83ed97b70130" />
